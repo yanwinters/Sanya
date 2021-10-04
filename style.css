@@ -1,0 +1,51 @@
+.loader {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.invisible {
+    position: relative;
+    display: none;
+}
+
+#main {
+    margin-left: 5%;
+    position: absolute;
+}
+
+#text {
+    overflow: visible;
+    box-sizing: border-box;
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 100%;
+    width: 106%;
+    font-size: 1.7em;
+}
+
+.title {
+    font-family: Consolas Bold, monospace;
+    font-size: 140px;
+    margin-left: 5%;
+    margin-top: 8%;
+    margin-bottom: 0px;
+}
+
+.text1 {
+    font-family: Consolas Bold, monospace;
+    margin-left: 5%;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+
+.text2 {
+    font-family: Consolas Bold, monospace;
+    margin-left: 5%;
+    font-size: 40px;
+    margin-top: 0px;
+}
