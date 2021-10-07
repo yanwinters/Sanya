@@ -9,7 +9,7 @@ let inactivityTime = () => {
     function resetTimer() {
         loader.classList.add('invisible');
         clearTimeout(time);
-        time = setTimeout(fn, 5000)
+        time = setTimeout(fn, 10000)
     }
 
     function fn() {
